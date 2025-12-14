@@ -10,3 +10,4 @@
     * [25-11 - Cornelius Aggripa is the same person made Trilema and is mentioned in Frankenstein](/topics/4.md)
 * [25-11 - Postmodernizmo apibudinimas, paradoxalu...](/topics/2.md)
 * [26-11 - William James - Pragmatism](/topics/3.md)
+* [14-12 - Weak economical communities tend to be larger as tribes and Risk Pooling](/topics/14-12.md)
