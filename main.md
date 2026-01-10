@@ -12,3 +12,4 @@
 * [26-11 - William James - Pragmatism](/topics/3.md)
 * [14-12 - Weak economical communities tend to be larger as tribes and Risk Pooling](/topics/14-12.md)
 * [8-1-25](/topics/8-1-25.md)
+* [10-1-26] - Erica Thompson effect, ET effect 
