@@ -15,3 +15,5 @@
 
 ## 2026
 * [10-1-26] - Erica Thompson effect, ET effect 
+* [8-1-26 Luis Khant, even brick wants to be something](/topics/8-1-25.md)
+* [11-1-26 Meritokratija  ir kitos kratijos](/topics/11-1-26.md)
